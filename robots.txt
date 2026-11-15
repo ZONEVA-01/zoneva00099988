@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zoneva-01.github.io/zoneva/sitemap.xml
